@@ -1,1 +1,18 @@
-Readme file
+Atividade referente ao Laboratório 2 da disciplina IMD0030 - Linguagem de Programação I
+Alunos: FELIPE MENDONÇA GURGEL BANDEIRA - Matrícula: 20170003094
+	FERNANDO BEZERRA DE OLIVEIRA - Matrícula: 20170126011
+
+Observações:
+1) Todas as funcionalidades, exceto data de admissão e listagem de usuários contratados há menos de 90 dias, foram implementadas
+2) Não há um menu com switch-case permitindo o usuário interagir e criar seus própios objetos
+3) As definições foram feitas em arquivos .h e as implementações nos arquivos .cpp
+4) Foi feito um makefile baseado nas notas de aula do professor Sílvio. 
+   Para compilar os arquivos, basta utilizar o comando make.
+5) O projeto está organizado em pastas:
+   build(criada pelo makefile) para os arquivos .o
+   src para os arquivos .cpp
+   bin(criada pelo makefile) para o executável
+   include para os arquivos .h
+6) Não há muitas checagems para as entradas dos métodos 
+   (por exemplo checar se o usuário entrou com uma string em formato de CNPJ 
+   ou entrou com um valor sensato no método de realizar aumento em %)
