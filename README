@@ -3,6 +3,8 @@ Alunos: FELIPE MENDONÇA GURGEL BANDEIRA - Matrícula: 20170003094
 	FERNANDO BEZERRA DE OLIVEIRA - Matrícula: 20170126011
 
 Observações:
+0)Esse projeto está disponivel em https://github.com/foliveira7bti/Lab2LP
+
 1) Todas as funcionalidades, exceto data de admissão e listagem de usuários contratados há menos de 90 dias, foram implementadas
 
 2) Não há um menu com switch-case permitindo o usuário interagir e criar seus própios objetos
