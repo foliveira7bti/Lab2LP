@@ -8,11 +8,15 @@ Observações:
 3) As definições foram feitas em arquivos .h e as implementações nos arquivos .cpp
 4) Foi feito um makefile baseado nas notas de aula do professor Sílvio. 
    Para compilar os arquivos, basta utilizar o comando make.
+   IMPORTANTE: O arquivo executavel se chama mainRun e fica 
+   em ./bin/mainRun
+
+
 5) O projeto está organizado em pastas:
    build(criada pelo makefile) para os arquivos .o
    src para os arquivos .cpp
-   bin(criada pelo makefile) para o executável
+   bin(criada pelo makefile) para o executável mainRun
    include para os arquivos .h
-6) Não há muitas checagems para as entradas dos métodos 
-   (por exemplo checar se o usuário entrou com uma string em formato de CNPJ 
+7) Não há muitas checagems para as entradas dos métodos 
+   (por exemplo checar se o usuário entrou com uma string em formato de CNPJ
    ou entrou com um valor sensato no método de realizar aumento em %)
