@@ -53,7 +53,6 @@ int main (void)
 
 	std::cout << "Media de funcionario por empresa: " << std::endl;
 	std::cout << (double)Funcionario::getTotalFuncionarios()/Empresa::getTotalEmpresas() << std::endl;
-	//std::cout << "Hello world" << std::endl << a1 << std::endl;
 
 	return 0;
 }
