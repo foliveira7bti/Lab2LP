@@ -4,9 +4,12 @@ Alunos: FELIPE MENDONÇA GURGEL BANDEIRA - Matrícula: 20170003094
 
 Observações:
 1) Todas as funcionalidades, exceto data de admissão e listagem de usuários contratados há menos de 90 dias, foram implementadas
+
 2) Não há um menu com switch-case permitindo o usuário interagir e criar seus própios objetos
+
 3) As definições foram feitas em arquivos .h e as implementações nos arquivos .cpp
-4) Foi feito um makefile baseado nas notas de aula do professor Sílvio. 
+
+4) Foi feito um makefile baseado nas notas de aula do professor Sílvio (link comentado dentro do makefile) 
    Para compilar os arquivos, basta utilizar o comando make.
    IMPORTANTE: O arquivo executavel se chama mainRun e fica 
    em ./bin/mainRun
@@ -17,6 +20,7 @@ Observações:
    src para os arquivos .cpp
    bin(criada pelo makefile) para o executável mainRun
    include para os arquivos .h
+   
 7) Não há muitas checagems para as entradas dos métodos 
    (por exemplo checar se o usuário entrou com uma string em formato de CNPJ
    ou entrou com um valor sensato no método de realizar aumento em %)
